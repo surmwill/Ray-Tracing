@@ -1,0 +1,15 @@
+Must be in the A4 directory
+compile as normal
+premake4 gmake
+make
+cd Assets
+../A4 file.lua (ex simple.lua)
+
+Tested via ssh - I know this isn't correct, sorry
+
+Custom feature is reflection.
+
+As of now not done:
+no real novel scene (novel.lua), but it shows off reflections - ran outta time.
+
+yall crazy for making this due in a week
