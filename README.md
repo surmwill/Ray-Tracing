@@ -7,3 +7,5 @@ Detects collisions with cubes, spheres, and triangles, all of which can be trans
 Bounding boxes are used for a performance increase. 
 
 Simple shadows (using a shadow ray) and reflection are implemented.
+
+Main code can be found in A4.cpp.
